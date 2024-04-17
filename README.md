@@ -105,8 +105,6 @@ python NetCmpt.py (BaseFolder path) (genomes file) (analysisMode) (output file)
 
 conda activate NetCmpt_env
 
-# change directory to NetCom2_snakemake (working direcotry) #
-
 cd NetCmpt 
 
 python NetCmpt.py ./ ./genomes.tsv single-species compete.tsv
