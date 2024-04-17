@@ -113,8 +113,6 @@ python NetCmpt.py ./ ./genomes.tsv single-species compete.tsv
 
 ```
 
-<img src="Network.jpg" width=600, height=600 align="center" />
-
 ## Contributors
 
 [Gon Carmi](https://www.freilich-lab.com/members) \
